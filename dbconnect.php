@@ -2,7 +2,7 @@
 
 define('DB_HOST', 'interchange.proxy.rlwy.net');
 define('DB_USER', 'root');
-define('DB_PASS', ':WQsPfzqsIyiKDLQoGXeSDXWbruoATcWZ');
+define('DB_PASS', 'WQsPfzqsIyiKDLQoGXeSDXWbruoATcWZ');
 define('DB_NAME', 'railway');
 define('DB_PORT', 57724);
 
